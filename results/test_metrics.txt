@@ -1,0 +1,4 @@
+MedVision - PathMNIST Test Results
+----------------------------------
+Accuracy: 81.04%
+ROC-AUC: 0.9669
